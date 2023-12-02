@@ -1,6 +1,6 @@
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
-    <img width="150" height="150" src="https://raw.githubusercontent.com/jinix6/JinxxObbSearch1/main/New%20Project%2026%20%5B3746A45%5D.png?token=GHSAT0AAAAAACKQKA3M45BSI6AYD4JRXFSOZLLMAWA" />
+    <img width="150" height="150" src="https://avatars.githubusercontent.com/u/135565126?v=4" />
 </p>
 
 
