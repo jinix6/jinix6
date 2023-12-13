@@ -5,6 +5,15 @@
 
 
 
+
+<p align="center">
+    <!--     You can add your logo in the _src_ below -->
+    <img src="https://raw.githubusercontent.com/jinix6/jinix6/main/New%20Project%2013%20%5B93048D4%5D.png" />
+</p>
+
+
+
+
 <p align="center">
 <!--     Add your own socials inside "href" -->
 <a href="https://t.me/Jinxx6_6_real_1" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Jinxx6_6_real_1" /></a>
