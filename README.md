@@ -11,5 +11,9 @@
 
 
 <a href="https://truecaller-six.vercel.app" target="_blank">
-  <img width="50%" src="New Project 9 [6FCEF8F].png" alt="Male Icon">
+  <img width="50%" src="New Project 9 [6FCEF8F].png">
+</a>
+
+<a href="https://jinix6.github.io/Icon/" target="_blank">
+  <img width="50%" src="New Project 9 [60A2C85].png">
 </a>
