@@ -21,3 +21,5 @@
 <a href="https://t.me/FFinfox" target="_blank">
   <img width="50%" src="New Project 9 [8F8CF30].png">
 </a>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jinix6\&repo=ff-profile-webp\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
