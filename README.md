@@ -23,3 +23,12 @@
 </a>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jinix6\&repo=ff-profile-webp\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+
+
+
+
+
+<a href="https://github.com/jinix6/ff-profile-webp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinix6&repo=ff-profile-webp" />
+</a>
