@@ -15,7 +15,7 @@
   <img width="50%" src="New Project 9 [60A2C85].png">
 </a>
 
-<a href="https://t.me/FFinfox" target="_blank">
+<a href="https://ff-id-info.vercel.app" target="_blank">
   <img width="50%" src="New Project 9 [8F8CF30].png">
 </a>
 
