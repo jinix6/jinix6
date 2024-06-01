@@ -14,25 +14,23 @@
 <a href="https://jinix6.github.io/Icon/" target="_blank">
   <img width="50%" src="New Project 9 [60A2C85].png">
 </a>
-
+<!-- 
 <a href="https://ff-id-info.vercel.app" target="_blank">
   <img width="50%" src="New Project 9 [8F8CF30].png">
 </a>
-
 <a href="https://truecaller-six.vercel.app" target="_blank">
   <img width="50%" src="New Project 9 [6FCEF8F].png">
 </a>
-
-
+-->
 
 <a href="https://terab0x.pages.dev" target="_blank">
   <img width="50%" src="New Project 9 [F6E11E4].png">
 </a>
-
+<!-- 
 <a href="https://dataloom.vercel.app/" target="_blank">
   <img width="50%" src="New Project 9 [46D220E].png">
 </a>
-
+-->
 
 
 
