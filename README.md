@@ -35,16 +35,3 @@
 
 
 
-
-<a href="https://github.com/jinix6/gpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinix6&repo=gpt" />
-</a>
-
-
-
-<a href="https://github.com/jinix6/ff-profile-webp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinix6&repo=ff-profile-webp" />
-</a>
-
-
-
