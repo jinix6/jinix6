@@ -23,7 +23,7 @@
 </a>
 -->
 
-<a href="https://terab0x.pages.dev" target="_blank">
+<a href="https://www.teraboxdownloader.pro" target="_blank">
   <img width="50%" src="New Project 9 [F6E11E4].png">
 </a>
 <!-- 
